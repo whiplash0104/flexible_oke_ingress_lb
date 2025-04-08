@@ -4,6 +4,8 @@ https://docs.oracle.com/en-us/iaas/Content/ContEng/Tasks/contengsettingupingress
 
 https://docs.oracle.com/en-us/iaas/Content/ContEng/Tasks/contengcreatingloadbalancer_topic-Summaryofannotations.htm
 
+https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/Content/ContEng/Tasks/contengcreatingloadbalancers-subtopic.htm#:~:text=The%20shape%20of%20an%20Oracle,available%2C%20including%20400Mbps%20and%208000Mbps.
+
 Y editar el archivo, en el servicio y agregar annotations
 
 **annotations:** 
