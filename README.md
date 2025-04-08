@@ -4,10 +4,15 @@ https://docs.oracle.com/en-us/iaas/Content/ContEng/Tasks/contengsettingupingress
 Y editar el archivo, en el servicio y agregar annotations
 
 **annotations:** 
+
   **service.beta.kubernetes.io/oci-load-balancer-subnet1: 'ocid1.subnet.oc1.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'**
+  
   **service.beta.kubernetes.io/oci-load-balancer-shape: "flexible"**
+  
   **service.beta.kubernetes.io/oci-load-balancer-shape-flex-min: "100"**
+  
   **service.beta.kubernetes.io/oci-load-balancer-shape-flex-max: "800"**
+  
 
 ```
 apiVersion: v1
