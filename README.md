@@ -1,5 +1,8 @@
-Para crear un Ingress Controller Nginx LB flexible con mínimo y máximo de bandwidth, descargar yaml de ingress controller en base a la docuembtación
+Para crear un Ingress Controller Nginx LB flexible con mínimo y máximo de bandwidth, descargar yaml de ingress controller en base a la documentación:
+
 https://docs.oracle.com/en-us/iaas/Content/ContEng/Tasks/contengsettingupingresscontroller.htm
+
+https://docs.oracle.com/en-us/iaas/Content/ContEng/Tasks/contengcreatingloadbalancer_topic-Summaryofannotations.htm
 
 Y editar el archivo, en el servicio y agregar annotations
 
